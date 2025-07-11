@@ -40,9 +40,6 @@ Fir-registration/
 ├── vite.config.ts
 └── tailwind.config.js
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -75,23 +72,7 @@ Tools: Hardhat / Remix
 
 (Add deployed contract address + link to Etherscan)
 
-📸 Screenshots
-(Include UI screenshots here)
 
-FIR registration page
-
-Blockchain response confirmation
-
-Node syncing page (if available)
-
-🧪 Testing (Optional)
-You can add tests using Vitest or Jest.
-
-bash
-Copy
-Edit
-npm install --save-dev vitest
-npm run test
 📄 License
 This project is licensed under the MIT License.
 Feel free to fork, contribute, and reuse responsibly.
